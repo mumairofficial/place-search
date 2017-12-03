@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Demo
 
-
+![project-overview](https://user-images.githubusercontent.com/6498132/33524537-d4d782b0-d840-11e7-93d7-8acefe539fdf.gif)
 
 ## Installation
 
